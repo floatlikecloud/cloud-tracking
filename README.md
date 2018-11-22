@@ -1,6 +1,7 @@
 # cloud-tracking
 cloud tracking tool written in modern FORTRAN (for WRF output)<br/>
 Cloud Tracking Toolbox which is written by floatlikecloud (Wei-Ting Hsiao)<br/>
+The programs should be used, modified, and spread under the MIT License.
 _Nov.22 2018_<br/>
 <br/>
 _Contact: floatlikecloud@gmail.com_
