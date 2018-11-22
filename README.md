@@ -1,10 +1,10 @@
 # cloud-tracking
-cloud tracking tool written in modern FORTRAN (for WRF output)
-
-Cloud Tracking Toolbox which is written by floatlikecloud (Wei-Ting Hsiao)
-
-_Nov.22 2018_
-
+cloud tracking tool written in modern FORTRAN (for WRF output)<br/>
+Cloud Tracking Toolbox which is written by floatlikecloud (Wei-Ting Hsiao)<br/>
+_Nov.22 2018_<br/>
+<br/>
+_Contact: floatlikecloud@gmail.com_
+<br/>
 ### Main Programs
 **cloud_labeling.f95**: <br/>
 the main program that inputs the raw model output and gives you the cloud-label field <br/>
